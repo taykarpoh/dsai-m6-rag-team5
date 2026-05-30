@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What are the immediate actions required when a SEV1 incident is declared?",
+    "ground_truth": "Page the on-call engineer immediately and notify the on-call manager within 5 minutes."
+  },
+  {
+    "question": "How frequently must status updates be given during a SEV1 incident?",
+    "ground_truth": "Every 15 minutes, even if there is no change."
+  },
+  {
+    "question": "If the primary on-call does not respond to a SEV1 page within 10 minutes, what is the next step?",
+    "ground_truth": "Page the secondary on-call engineer."
+  },
+  {
+    "question": "How many days of paid annual leave does a full-time employee receive per calendar year?",
+    "ground_truth": "20 days."
+  },
+  {
+    "question": "How many days of unused annual leave can be carried over to the next year?",
+    "ground_truth": "Up to 5 days. Any balance above 5 days is forfeited on 31 December."
+  },
+  {
+    "question": "How far in advance must a leave request be submitted for a period longer than 2 days?",
+    "ground_truth": "At least 10 working days in advance."
+  },
+  {
+    "question": "What is the first-response time target for a P1 IT support issue?",
+    "ground_truth": "Within 30 minutes."
+  },
+  {
+    "question": "How soon must a suspected security incident be reported to the IT team?",
+    "ground_truth": "Within 1 hour."
+  },
+  {
+    "question": "What is the maximum daily meal reimbursement when travelling on business?",
+    "ground_truth": "$80 per day, covering breakfast, lunch, and dinner combined."
+  },
+  {
+    "question": "How long must original receipts be kept after submitting an expense claim?",
+    "ground_truth": "90 days after submission."
+  }
+]

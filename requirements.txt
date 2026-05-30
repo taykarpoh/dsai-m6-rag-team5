@@ -5,3 +5,6 @@ langchain-chroma
 langchain-text-splitters
 chromadb
 streamlit
+cohere
+langchain-cohere
+ragas
